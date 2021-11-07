@@ -17,5 +17,6 @@ Kolejne agregacje będę dodawał na bieżąco.
 W najbliższym czasie będą wykonywane analizy w języku Python z użyciem JupyterNotebook, w języku R z użyciem RStudio a wizualizacja danych powstanie w programie tableau (oraz poszczególne wykresy w Pythonie i R).
 
 
+
 -- Plik Sales_RawData zawiera dane użyte do analizy zapisane w formacie xlsx, plik Sales_Data zawiera wizualne podgląd danych --         
 -- Plik SQLQuery_Sales zawiera kod sql użyty podczas agregacji danych -- 

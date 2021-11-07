@@ -6,10 +6,7 @@ Składa się ona z 3 tabel (Przedstawiciele, Sprzedaż oraz Klienci), które prz
 
 Początek analizy danych rozpoczął się w programie excel, gdzie dane zostały sprawdzone oraz dodane zostały nowe kolumny w celu małej rozbudowy bazy danych.
 
-Po wgraniu tabel do serwera MS SQL zoistały wykonane podstawowe agregacje danych w celu wyciagnięcia interesujących informacji takich jak np.:
-  - Wybranie 3 najlepszych sprzedawców
-  - Liczba wykonanych połączeń przez sprzedawców oraz łączny czas rozmowy
-  - Wydajność sprzedawców, obliczając zysk na minutę rozmowy
+Po wgraniu tabel do serwera MS SQL zoistały wykonane podstawowe agregacje danych w celu wyciagnięcia interesujących informacji takich jak np.: Wybranie 3 najlepszych sprzedawców, liczba wykonanych połączeń przez sprzedawców oraz łączny czas rozmowy, wydajność sprzedawców, obliczając zysk na minutę rozmowy
 
 Kolejne agregacje będę dodawał na bieżąco.
                            

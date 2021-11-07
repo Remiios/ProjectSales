@@ -245,7 +245,7 @@ SELECT SUM(Kwota_Zakupy) AS SumaZakupów,
 	Nazwisko,
 	Email,
 	Karta_członkowska
-FROM #Dane_Sales--, names
+FROM #Dane_Sales
 GROUP BY ID_Klienta, Nazwisko, Email, Karta_członkowska
 )
 SELECT *

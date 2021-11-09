@@ -1,6 +1,6 @@
 # ProjectSales
 
-Jedno z pierwszych podejść do stworzenia własnego projektu związanego z analizą danych z wykorzystaniem różnych narzędzi.
+Jest to pierwsze udokumentowane podejście do stworzenia własnego projektu związanego z analizą danych z wykorzystaniem różnych narzędzi.
 ProjectSales odnosi się do prostej bazy danych wykorzystywanych do nauki na studiach.
 Składa się ona z 3 tabel (Przedstawiciele, Sprzedaż oraz Klienci), które przedstawiają sprzedaż telefoniczną.
 
